@@ -1,0 +1,13 @@
+﻿<?xml version='1.0'?>
+<?mso-application progid='Excel.Sheet'?>
+<s:Workbook xmlns:x="urn:schemas-microsoft-com:office:excel" xmlns:o="urn:schemas-microsoft-com:office:office" xmlns:s="urn:schemas-microsoft-com:office:spreadsheet">
+  <s:Styles>
+    <s:Style s:ID="100">
+      <s:NumberFormat s:Format="Short Date" />
+    </s:Style>
+    <s:Style s:ID="101">
+      <s:NumberFormat s:Format="&quot;$&quot;#,##0.00" />
+    </s:Style>
+  </s:Styles>
+  <s:Worksheet s:Name="Sheet 1" />
+</s:Workbook>
